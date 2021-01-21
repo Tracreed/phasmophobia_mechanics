@@ -239,7 +239,7 @@ Thanks to the following people for spotting errors in this guide:
   - "Pussy",
   - "Dickhead",
   - "Bloody Mary"
-  - Plus 57 more that are language-specific. The English versions are provided below. For all langauges, refer to localisation.csv found in this repository, and search for Phrase_. All these are taken directly from the .csv, lack of punctuation, spelling errors, and all.
+  - Plus 57 more that are language-specific. The English versions are provided below. For all languages, refer to localisation.csv found in this repository, and search for Phrase_. All these are taken directly from the .csv, lack of punctuation, spelling errors, and all.
     - Can you speak
     - Show us
     - Let us know you are here
